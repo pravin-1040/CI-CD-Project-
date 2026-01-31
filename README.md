@@ -51,6 +51,7 @@ ci-cd-jenkins-docker/
 4. Test the app:
    http://<EC2_PUBLIC_IP>:5000
 
+![image alt](https://github.com/pravin-1040/CI-CD-Project-/blob/main/website%20showing.PNG?raw=true)
    
 
 ## CI/CD Pipeline   
