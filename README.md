@@ -62,4 +62,7 @@ Build Docker image
 Deploy container on EC2
 Automatic deployment occurs when code is pushed to GitHub.
 
+![image alt]()
+
+
   
